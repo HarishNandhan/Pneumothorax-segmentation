@@ -1,9 +1,4 @@
-# SIIM-PCR-Pneumothorax-Segmentation
-BLOG : https://namrata-thakur893.medium.com/medical-image-classification-and-segmentation-a-case-study-approach-6b5c7a73b9f5
 
-**Demo Deployed App:**
-
-[![Final Product](https://img.youtube.com/vi/t737eVOKeOY/0.jpg)](https://youtu.be/t737eVOKeOY "Click to play")
 
 **Business Problem:**
 
@@ -91,4 +86,3 @@ Metric(s):
 
 ![Failure Cases](https://user-images.githubusercontent.com/56768652/113337777-dd508400-9345-11eb-893d-7535ef148490.JPG)
 
-THIS REPO IS WORK IN PROGRESS. NEW ADDITION/UPDATION IS DONE EVERYDAY.
